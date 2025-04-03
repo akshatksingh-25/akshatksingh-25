@@ -46,8 +46,8 @@
 ![](https://github-profile-trophy.vercel.app/?username=akshatksingh-25&theme=darkhub&no-frame=false&no-bg=false&margin-w=4)
 <br>
 
-## 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=akshatksingh-25&limit=5&theme=github_dark&combine_all_yearly_contributions=true)
+## 🔝 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=akshatksingh-25&show_icons=true&theme=github_dark&hide=prs,issues&count_private=true)
 
 
 ## 🌐 Socials:
