@@ -8,6 +8,7 @@
 
 [![Profile Views](https://komarev.com/ghpvc/?username=akshatksingh-25&label=Profile%20Views&color=0e75b6&style=flat)](https://github.com/akshatksingh-25)
 
+
 ## 💫 About Me:
 - 🌐 I'm a passionate full-stack web developer with experience in building modern, responsive web applications.
 - 🏢 I interned at **Power Grid Corporation of India Ltd. (IT Cell, RHQ, Patna)**, where I developed a **Transformer Health Monitoring Portal** — A web-based dashboard for real-time monitoring of transformer parameters like temperature, oil level, and load. The system replaced manual fault tracking with a centralized digital solution, featuring live dashboards, email alerts, and graphical analysis, thereby improving efficiency, fault detection, and overall transformer reliability.
@@ -56,8 +57,8 @@
   <img src="https://nirzak-streak-stats.vercel.app/?user=akshatksingh-25&theme=github_dark&hide_border=false" alt="Akshat's GitHub Streak" width="33%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshatksingh-25&theme=github_dark&hide_border=false&layout=compact" alt="Top Languages" width="33%" />
 </p>
-
 <br>
+
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=akshatksingh-25&theme=darkhub&no-frame=false&no-bg=false&margin-w=4)
@@ -66,6 +67,12 @@
 ## 🔝 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=akshatksingh-25&show_icons=true&theme=github_dark&hide=prs,issues&count_private=true)
 
+
+## 🧠 Problem Solving Profiles
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/akshatksingh25/)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=GeeksforGeeks&logoColor=white)](https://www.geeksforgeeks.org/user/akshatksingh25/)
+[![Code360](https://img.shields.io/badge/Code360-E34F26?style=for-the-badge&logo=codingninjas&logoColor=white)](https://www.naukri.com/code360/profile/akshatksingh)
+<br>
 
 ## 🌐 Socials:
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:akshatksingh25@gmail.com) 
