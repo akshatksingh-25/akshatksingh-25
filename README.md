@@ -68,7 +68,7 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=akshatksingh-25&show_icons=true&theme=github_dark&hide=prs,issues&count_private=true)
 
 
-## 🧠 Problem Solving Profiles
+## 👨‍💻 Coding Profiles
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/akshatksingh25/)
 [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=GeeksforGeeks&logoColor=white)](https://www.geeksforgeeks.org/user/akshatksingh25/)
 [![Code360](https://img.shields.io/badge/Code360-E34F26?style=for-the-badge&logo=codingninjas&logoColor=white)](https://www.naukri.com/code360/profile/akshatksingh)
