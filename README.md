@@ -11,7 +11,7 @@
 ### 💫 About Me:
 - 🌐 I'm a passionate full-stack web developer with experience in building modern, responsive web applications.
 - 🏢 I interned at **Power Grid Corporation of India Ltd. (IT Cell, RHQ, Patna)**, where I developed a **Transformer Health Monitoring Portal** to replace the manual fault tracking system with a centralized digital solution.
-- 🧠 I have a strong grasp of **Data Structures & Algorithms** and regularly solve problems on platforms like LeetCode and GeeksforGeeks.
+- 🧠 I have a strong grasp of **Data Structures & Algorithms** and regularly solve problems on platforms like LeetCode, GeeksforGeeks and Code360.
 - 🚀 Currently exploring **Cloud & DevOps**, **Artificial Intelligence**, **Machine Learning**, **Data Science** and **Analytics** to expand my problem-solving and system design capabilities.
 <br>
 
