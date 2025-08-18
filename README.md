@@ -8,12 +8,18 @@
 
 [![Profile Views](https://komarev.com/ghpvc/?username=akshatksingh-25&label=Profile%20Views&color=0e75b6&style=flat)](https://github.com/akshatksingh-25)
 
-### 💫 About Me:
+## 💫 About Me:
 - 🌐 I'm a passionate full-stack web developer with experience in building modern, responsive web applications.
-- 🏢 I interned at **Power Grid Corporation of India Ltd. (IT Cell, RHQ, Patna)**, where I developed a **Transformer Health Monitoring Portal** to replace the manual fault tracking system with a centralized digital solution.
+- 🏢 I interned at **Power Grid Corporation of India Ltd. (IT Cell, RHQ, Patna)**, where I developed a **Transformer Health Monitoring Portal** — A web-based dashboard for real-time monitoring of transformer parameters like temperature, oil level, and load. The system replaced manual fault tracking with a centralized digital solution, featuring live dashboards, email alerts, and graphical analysis, thereby improving efficiency, fault detection, and overall transformer reliability.
 - 🧠 I have a strong grasp of **Data Structures & Algorithms** and regularly solve problems on platforms like LeetCode, GeeksforGeeks and Code360.
+<br>LeetCode – Solved 200+ Problems | GeeksforGeeks – Solved 280+ Problems | Code360 – Solved 300+ Problems
+<br> [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/akshatksingh25/)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=GeeksforGeeks&logoColor=white)](https://www.geeksforgeeks.org/user/akshatksingh25/)
+[![Code360](https://img.shields.io/badge/Code360-E34F26?style=for-the-badge&logo=codingninjas&logoColor=white)](https://www.naukri.com/code360/profile/akshatksingh)
 - 🚀 Currently exploring **Cloud & DevOps**, **Artificial Intelligence**, **Machine Learning**, **Data Science** and **Analytics** to expand my problem-solving and system design capabilities.
 <br>
+
+
 
 
 ## 💻 Tech Stack:
