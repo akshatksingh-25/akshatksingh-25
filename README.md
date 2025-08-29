@@ -59,11 +59,6 @@
 </p>
 <br>
 
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=akshatksingh-25&theme=darkhub&no-frame=false&no-bg=false&margin-w=4)
-<br>
-
 ## 🔝 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=akshatksingh-25&show_icons=true&theme=github_dark&hide=prs,issues&count_private=true)
 
@@ -78,4 +73,7 @@
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:akshatksingh25@gmail.com) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/akshatksingh25) 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/akshatksingh__25) 
+<br>
+
+![Akshat's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=akshatksingh-25&theme=react-dark)
 <br>
